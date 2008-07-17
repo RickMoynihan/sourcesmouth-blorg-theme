@@ -1,0 +1,127 @@
+/*** The Essential Code ***/
+
+.body {
+  margin: 0; 
+  padding-left: 200px;    /* LC fullwidth */
+  padding-right: 190px;   /* RC fullwidth + CC padding */
+  min-width: 240px;       /* LC fullwidth + CC padding */
+  font:90% Trebuchet MS, Arial, Helvetica, sans-serif;
+}
+
+#header, #footer {
+  margin-left: -200px;    /* LC fullwidth */
+  margin-right: -190px;   /* RC fullwidth + CC padding */
+}
+
+.column {
+  position: relative;
+  float: left;
+}
+
+#center {
+  padding: 0 20px;
+  width: 100%;
+}
+
+#left {
+  width: 180px;           /* LC width */
+  padding: 0 10px;        /* LC padding */
+  right: 240px;           /* LC fullwidth + CC padding */
+  margin-left: -100%;
+}
+
+#right {
+  width: 130px;           /* RC width */
+  padding: 0 10px;        /* RC padding */
+  margin-right: -100%;
+}
+
+#footer {
+  clear: both;
+}
+
+/*** IE Fix ***/
+* html #left {
+  left: 150px;            /* RC fullwidth */
+}
+
+/*** Just for Looks ***/
+
+body {
+  background: #FFF;
+}
+
+#header, #footer {
+  font-size: large;
+  text-align: center;
+  padding: 0.3em 0;
+}
+
+#left {
+  /*         background: #66F; */
+}
+
+.column {
+  padding-top: 1em;
+  text-align: justify;
+}
+
+
+/*
+   My CSS Customisation Layer.
+   */
+
+.body { 
+  /*         background: white url(./images/column-overlay.png) no-repeat top left; */
+  background: white url(./images/col-repeat.png) no-repeat top left;
+  background-repeat: repeat-y;
+}
+
+#header {  
+  background: #FFF;
+  
+}
+
+#center { 
+  background-position: -180px 774px;
+  /*           background: #DDD; */
+}
+
+#right {
+  /*          background: #F66; */
+}
+
+
+
+#left {
+  background: white url(./images/column-overlay.png) no-repeat top left;
+  
+  width: 180px;           /* LC width */
+  /*         padding: 90px 100px;        /\* LC padding *\/ */
+  /*         right: 240px;           /\* LC fullwidth + CC padding *\/ */
+  margin-left: -100%;
+  height: 800px;
+}
+
+.post-content-image {
+    text-align: center;
+    display: block;
+}
+
+ul.navigation {
+    list-style-type: none;
+    text-indent: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* #wrapper {  */
+/*            background: white url(../horses-mouth.png); */
+/*            background-repeat: no-repeat; */
+/*            margin-left: -180px; */
+/*            padding-left: 180px; */
+/*            height: 620px; */
+/*  } */
+
+
+

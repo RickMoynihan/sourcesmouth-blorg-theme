@@ -1,0 +1,511 @@
+* Draft Posts
+
+** TODO Network Lib or AOL 2.0?
+
+
+
+http://daggle.com/070810-212637.html
+
+Since the 2004 Web 2.0 conference, we've seen lots of hyperbole and
+repositioning as people proclaim themselves and their vested intests
+as being the future of the web.
+
+further ahead of the curve than anyone else about Web 3.0 will be.
+
+http://www.theregister.co.uk/2006/06/01/ditch_email/print.html
+
+http://www.gaborcselle.com/blog/2006/07/how-researchers-are-reinventing-mail.html
+
+http://weblog.infoworld.com/udell/2006/01/17.html#a1372
+
+http://weblogs.mozillazine.org/mitchell/archives/2007/07/email_futures.html
+
+http://www.theregister.co.uk/2005/09/21/email_future/
+
+- Web 2.0 was the web as platform, but we really need to use the
+  internet as platform again.
+- Just as telephony, interactive tv and microsoft office are evolving
+  to support web-styled interactions.  One day the web will need to
+  evolve to align itself with another system.  -- Perhaps a comment
+  for a different post.
+- Semantic web is never going to take off big and fulfill it's vision.
+- Nobody's got a scooby what Web 3.0 will be about
+  - Semantic web folk just assumed it requires semantics of an RDF
+    variety... bullshit!  People find it hard enough to write valid
+    HTML, and the overall validity of XML feeds is shit.
+- Email is overloaded
+- The rise of social networks is not the answer
+  + Centralised
+  + Lock in
+  + Inefficient
+- Email did a lot of things well
+  + CC, BCC, Mailing lists etc...
+  + P2P (YAY!)
+  + Message based
+- Our social networks and the "Social Graph" are often well
+  represented (or can easily be seeded) via email address books.
+- Email needs 'enterprise' workflow features
+  + Sending simple forms to people...
+  + Expression of protocols, e.g. auction, message-response etc...
+  + Integration of 'business rules' into mail clients
+  + Should support M2M, H2M & H2H
+    - M2M messages should include 'friend' updates
+- Ability to browse mail boxes
+- Needs good security
+- Perhaps RIA platforms will prove good for bringing web-style
+  innovation to the client end, which is what Email 2.0 needs.
+- Email 2.0 may actually better be IM 2.0, I'm not sure.
+- Big problem is how do you evolve a large P2P and standards based
+  system and ensure interoperability?
+
+** TODO Software Installation - WTF!?
+
+Common criticism of linux is software installation sucks.
+
+- Software installation on Windows (often) sucks more.
+- Microsoft haven't unified software installation on windows.
+- Linux distro's are often very good at application installation (if it's in the repo).
+
+- Windows is a mess because of automated updates
+  + Each non MS program needs to reinvent the installer/updater wheel,
+    causing instability and constant updates and frustration.
+  + Linux is far saner here.
+
+** TODO Communication Interaction Matrix 
+
+- Hard Copy Book
+- Newspaper
+- Television          
+- Radio               
+- Telephone Call      
+- Conference Call     
+- Voicemail           
+- SMS                 
+- Email               
+- Email MailingList   
+- I/M                 
+- Skype               
+- IRC                 
+- Usenet              
+- Website             
+- Web Forum (no Feed) 
+- Wiki                
+- Blog/Reader         
+- Blog Comment        
+- Twitter             
+- Facebook (story)    
+- del.icio.us         
+- Screen Sharing      
+- I/M Whiteboard 
+- Social Network Shuffle (Someone writes on your facebook, facebook
+  email you, you login and read the message...)
+
+Ways to categorise... What's important?  The balance between the
+parties to communication, e.g. who can send/receive etc..
+
+*** Push/Pull Spectrum
+*** Interuptivity/Passivity
+*** Archiving/Recording
+*** Synchronous/Asynchronous
+*** Network style
+**** Point to Point
+**** Broadcast
+**** Peer to Peer?
+*** Equality of peers
+Are all peers equal?  What are their roles?
+*** Publishability
+*** Findability
+*** Cost of communication
+- Who pays?
+*** Security
+*** Immediacy to send (fire and forget?)
+*** Immediacy to receive
+*** Media type
+- Text
+- Audio
+- Mixed-media
+- Structured Data
+- Video
+- URL's
+
+
+** TODO Bar Camp Leeds                              :computing:barcampleeds:tv3:
+
+Well, I'm a little ashamed of myself for taking so long to getting
+around to writing about it, but damn was [[http://barcamp.org/BarCampLeeds][Bar Camp Leeds]] fun!
+[[http://www.techiedog.com/blog/tdogblog.html][Techie dog]] had come up from Huddersfield earlier in the week to do
+some hacking on a hush hush project, allowing us to spend a good few
+days synchronising our development.  Everything went swimmingly,
+despite some minor provisioning issues with the [[http://www.flexiscale.com/][Flexiscale]] virtual
+servers, which are now proving to be a real [[http://www.amazon.com/b%3Fie%3DUTF8&node%3D201590011][EC2]] beater.
+
+On the Friday, scarcely a few hours before our train, [[http://ceoblog.calicojack.co.uk/][Paul]] and I
+received our much anticipated delivery from [[http://sourcesmouth.co.uk/blog/Forget-the-Linux-Desktop-it-s-the-Linux-Laptop-that-matters.html][Asus]].  Despite the time
+pressure it was a doddle to get the thing connected to the net and add
+the [[http://www.debian.org/][Debian]] repository required to install [[http://www.debian.org/][Emacs]].
+
+Paul and I met up with Techie Dog the following morning and made our way to 
+[[http://www.leedsmet.ac.uk/the_news/feb06/bbc.htm][Old Broadcasting House]]; which was not only the venue for [[http://barcampleeds.com/][Bar camp]] but also a
+newly refurbished incubator providing excellent [[http://coworking.pbwiki.com/][co-working]]
+facilities and the beginnings of great small business community!  It's fair to say I was
+more than a little jealous and can't help think that Dundee and
+[[http://www.scottish-enterprise.com/tayside/][SET]] should employ [[http://imran.typepad.com/blog/][Imran]] and crew to help deliver upon the promises of [[http://en.wikipedia.org/wiki/Silicon_glen][Silicon Glen]].  
+
+Following being greeted by a [[http://www.flickr.com/photos/greensontour/2044261494/][Polaroid]] (I'm on the far left on the middle
+row) for the [[photo%20wall][photo wall]], [[http://www.thomasscott.net/][Tom]] kicked things off with an enthusiastic
+intro and a brief explanation of the days format (4 tracks with half
+hour sessions).  
+
+After pondering the board for sessions I decided to start by attending
+[[http://www.simonwheatley.co.uk/2007/11/18/sailes-tv-3/][Mark Sailes]] TV 3.0.  True to the adhocratic nature of bar camp Mark
+simply posited his idea about audience participation over shared
+annotations, commentary and edits; and let his audience discuss it,
+resulting in a good round table discussion (see [[http://www.simonwheatley.co.uk/2007/11/18/sailes-tv-3/][Simon Wheatley's write up]]).
+
+After being a [[http://del.icio.us/InkyHarmonics/jonudell][follower]] and fan of [[http://jonudell.net/][Jon Udell]]'s insightful work for
+several years, I've long felt frustrated by the hypermedia experience
+which at best can only really be described as a media experience.
+Mark's discussion's reaffirmed me of the belief that the two biggest
+holes in the web are audio and video files which ([[http://www.oreillynet.com/pub/a/network/2005/07/18/primetime.html][almost]]) defy
+granular hyperlinking and random access.  Until they do however, what
+are we to do to deliver on Mark's grand vision?  Well the
+[[http://participatoryculture.org/][Participatory Culture Foundation]]'s [[http://www.fsf.org/][free]] and open-source [[http://getmiro.com/][Miro]] platform
+is an ambitious project to democratise online video by seperating the
+place people watch and host videos online.  In my mind though it would
+do well to support the more participatory features Mark had in mind. 
+
+[[http://www.oreillynet.com/pub/a/network/2005/01/07/primetime.html][Jon says]] no player supports the required features: 
+- HTTP 1.1 random access
+- Seek/jump to offset
+- Precise cursor control
+- Selection marking and review, with precise adjustment of segment boundaries
+- Export in/out times
+
+
+
+ When these [[http://www.ietf.org/internet-drafts/draft-wilde-text-fragment-09.txt][and other]]
+formats eventually become first class citizens of the web, it will
+have evolved enough for Tim O'Reilly to bless it Web(/TV) 3.0.
+
+
+
+From my perspective 
+
+to deliver the kind of deep-linking experience the web affords.
+
+inability of hypermedia ideas
+about the future of television and video
+
+*** Mention technical barriers to TV3.0 idea...
+
+Next up I attended [[http://thinkwhere.wordpress.com/][Tim Waters]] session on the awesome [[http://www.openstreetmap.org/][Open Street Map]]
+project.  This was of particular interest for me as I briefly....
+
+
+*** Notes
+
+the discussion different perspective or [[http://en.wikipedia.org/wiki/The_Phantom_Edit][remove JAR JARing distractions]]
+
+people mobbing Paul and I to look at our new toys (proving the Eeepc
+is cooler than a macbook).
+
+** Google Search trivia...
+
+The Google search for "innovation" surprisingly puts the DTI's
+department for business enterprise and regulatory form at #1.
+
+http://www.google.co.uk/search?q=innovation
+
+The most innovative thing here is wikipedia =)
+
+It's also no coincidence that these two things are often the same
+thing.
+
+
+it's the innovations that disrupt
+the status quo
+
+
+the kinds that don't cost lots of money
+
+There are two kinds of innovation, the kind that costs lots of money
+and the kind that doesn't.
+
+I've always enjoyed innovation and technology, but it always seems to
+be the innovations on the edges that excite me the most.
+
+innovation on the edge and at the
+fringes is best!  
+
+ I'll follow with an even sillier ; but spending billions on a large
+hadron collider
+
+it's the innovations which
+make things affordable and
+
+
+take on the incumbants and come from real human need that are best.
+
+ I enjoy
+seeing the most.
+
+
+Not only are the
+stories about the 2 guys who changed the world
+
+ Large Hadron
+Collider with
+
+It's often nice to witness innovation, disruptive technologies and
+revolutions on the boil.  
+
+and disruptive technologies
+
+have
+always interested me, but the innovations I like seeing the most tend
+to be where the constraints have been set really tight.
+
+ 
+indeed it's a significant part of what led me to Linux and the Free
+and Open Source Source software movements.  
+
+Disruptive technologies and revolutions almost always come from the
+edge.  Indeed it almost seems to be part of the definition
+
+** TODO On Personal Publishing
+
+Write about the rise of blogging...  And how blogging isn't just about
+flamewars and opinion (for that there's usenet ;)) it's a convenient
+publishing platform, that doesn't have to be used for public discussion.
+
+** TODO Write about and research Thunderbird & Future of email
+** TODO BBC IPlayer DRM, Net Neutrality and P2P
+
+http://arstechnica.com/news.ars/post/20070813-isps-to-bbc-we-throttle-iplayer-unless-you-pay-up.html
+
+If the BBC would adopt bittorrent and allow free distribution of their
+content then ISP's might find it harder to throttle them.
+
+** TODO Network Lib - Web 2.0 is thermal noise	     :web:internet:freesoftware:
+** TODO Benefits of Free Software / Open Source
+
+Freedom is not just freedom of choice.
+
+- Free Software carries with it a free market for support and services.
+- Free Software allows developers to work openly and create a public portfolio of work.
+
+** TODO RIA & MS
+
+Rich internet Apps are generating a lot of interest just now.
+Microsoft, Adobe, Java and AJAX are all competing against each other,
+but so is Mozilla.
+
+http://linux.slashdot.org/article.pl?sid=07/08/15/1620255&from=rss
+
+Silverlight is dangerous because Microsoft will leverage it in a
+battle against Google and indexable documents.
+
+- RIA should be more than just better graphics and UI's, it
+  represents.  It should provide integration with things that can ONLY
+  be done on the client, e.g. interacting with devices etc...
+- GWT & Java..
+  
+** TODO OLPC, Open Source and Open Minds
+  :PROPERTIES:
+  :Started: <2007-10-13 Sat 23:16>
+  :END:
+
+Blog about OLPC Open Source and education.  OLPC represents how
+computing should be done, and includes all that is important.
+
+http://oneducation.wordpress.com/2007/10/02/computer-literacy-better-self-taught-or-schooled/
+
+** TODO Consider experiment in online music learning 
+- [ ] Look for/at socialnetworking sites for this sort of thing
+  + [ ] Consider developing one in RoR?
+
+* Notes
+** First Post!
+  Further to this I recently convinced a project as part of the
+  [[http://www.scotland-malawipartnership.org/][Scotland Malawi Partnership]] who twin Malawian Clinics and Scottish
+  General Practices to blog about their progress online at
+  [[http://malawiclinics.org][malawiclinics.org]].
+  
+  
+  
+  with things
+  to say or publish to get blogging, yet strangely had never motivated
+  myself into it.
+  
+  
+  mention 
+
+  - 
+  - Dave 
+  - paul 
+  - chris  
+  - malawiclinics
+  
+  
+  After years of talking about the Internet and convincing others that
+  they should start a blog, I've finally been persuaded by some 
+  
+  it's empowering
+  effects on people, I've at last been convinced to
+  
+  
+  wave of personal publishing  the rise of blogging and that
+
+After making this decision about 6 months ago, I quickly decided that
+I didn't want to use Wordpress.  Wordpress is a wonderful piece of
+software, but I anticipated that my main problem would be motivating
+myself to write content.  For me the chore of logging into a webpage
+to enter text into a HTML textarea or evenn using a javascript
+imitiation of a rich text control would mean that I'd likely not
+bother to write content.  
+
+After investigating some Ruby based static blogging tools such as
+Hobix and Rassmalog I discovered blorg and org-blog
+
+** Freedom at the end of the (ZX) Spectrum
+
+At around the same time a man named [[http://www.philzimmermann.com/][Phil Zimmermann]] was being
+persecuted by the US government as an international arms dealer.  His
+crime, writing a free privacy tool known as Pretty Good Privacy, or
+PGP.  Fortunately Eben Moglen now with [[http://news.zdnet.co.uk/software/0,1000000121,39257499,00.htm][successfully defended him.]]
+
+Maybe Ted Nelson got Dream Machines and Computer Lib the wrong way
+round.  Perhaps Dream machines should have been the history of
+computers etc, whilst Computer Lib should have been about the network
+and Xanadu, which is the real architecture for liberation.
+
+[[file:TN_dm-cover.JPG][Dream Machines Cover - Ted Nelson]]
+
+Remember reading Richard Stallmans GNU properganda that I seem to
+remember shipping with emacs....  influence on me...  At the same time
+Phil Zimmerman was being criminalised as an arms dealer over PGP.
+(with
+
+ yet this is no longer the case....  Openness in hardware...
+Programming environment shipped with the machine, etc...
+
+Though computers today are many thousands of times faster than they
+were, this rapid expansion, development and consolidation has led to a 
+
+ the commercialisation and consolidation of the tech industry has
+meant that many important aspects of the early days of 
+
+processing power and 
+
+today.  I speak not of the obvious changes in processing power and
+memory, rather the more worrying trends the industry has moved in.
+
+
+Describe OLPC, it's importance as a return to openness and more
+importantly freedom.  Describe Eben Moglens spat with Tim OReilly...
+
+Mention Web2.0 as thermal noise....  Describe the google tech talk a
+vision for networking....  Data Osmosis....  Data has a name not a
+location...  We can't take stuff down off the internet anyway, so
+let's not worry about it.... etc....  This network architecture could
+help protect and prevent control of aggregated content etc...  
+
+ASymettric comms on the local loop will become more of a problem as
+people want to produce their own content.
+
+- Vint cerf recons 1tb would have cost one trillion dollars in 1979!!!
+
+Also link to "web2.0 means of production slipping away" as
+google/microsoft/yahoo/amazon buy up datacentres.  Virtual property is
+currently intimetely tied to real property.
+
+After this discovery I began proselytising free/libre software and
+it's principles of freedom, sharing and community to anyone who would
+listen.  It seemed that these principles could be adopted elsewhere,
+but early attempts at persuading my father (a staunch capitalist) of
+it's benefits
+
+and I spent many evenings trying to engage my father (a staunch
+capitalist) in discussions about it's merits.  To him it sounded too
+similar to communism though his bad experiences with Microsoft
+software
+
+what Yochai Benkler recently named "commons based peer production".
+
+ importantly in the case of GNU and Linux was
+
+http://bsdg.org/SWAG/
+
+Sadly most computers today seem to have lost the ability for users to
+easily look under the hood
+
+- Computer Lib \ Dream machines - Ted Nelson's books on hypertext...
+  + http://www.digibarn.com/collections/books/computer-lib/
+- OLPC - radical vision for pushing free software back into peoples hands
+  + OLPC could be more radical than the ZX Spectrum & early PC Industry was.
+  + Grass roots innovation
+- Eben Moglen, Tim O'Reilly argument...  Web 2.0 is thermal noise.
+
+** Forget the Linux Desktop, it's the Linux Laptop that's important
+
+Microsoft not as good at creating distributions as the Linux
+community.  Will inevitably end up trying to target a lot of areas and
+specialised devices.  MS not good at making OS's, but good at bundling
+software and maintaining a monopoly.  Will probably get out of the OS
+business and do what Apple did...
+
+For me the EEEPC if successful will be an important landmark on this
+route.
+
+This is a role that Linux is well placed to serve, yet Desktop Windows
+isnt.
+
+It's widely known that Microsoft's OEM practices have prevented many
+manufacturers from offering alternatives to their customers.  
+
+It seems that the cost of
+hardware has fallen so low that Microsoft can no longer reasonably
+charge so much for what is a commodity.
+
+ worry space which Microsoft can't easily target.  The reason, because users
+buying £200 laptops don't want to spend hundreds on operating systems
+and basic office software.
+
+This prospect has already clearly scared Microsoft, who just [[http://members.forbes.com/global/2007/1112/024a.html][prior to
+release] decided to offer Eee PC owners the option of buying it with
+Windows for an extra $40, but does this include Office?
+
+ compete without
+
+  I can't help but feel that this laptop is a harbinger
+
+ and it'll be a lot of peoples first experience of desktop Linux.
+
+But it gets even better as MS got spooked at it giving Linux an edge
+had to lower the price of Windows.
+
+Flash memory's been cheap enough for a long time and Linux has always
+been able to run like a dream on lowend hardware.
+
+* Misc/Settings 
+
+The following is what I'd like to have as an echo in blorg:
+(format "<div class=\"delicious-blogbadge-line\" id=\"%s\"><script type=\"text/javascript\">Delicious.BlogBadge.register('%s', '%s', '%s');</script></div>" post-url post-url post-url post-title)
+
+
+** Uploading over scp
+
+
+   : scp -r * powrtoc@media72:~/sourcesmouth.co.uk/blog
+* Blorg Examples
+** TODO Experiment
+
+Below is how to do literal HTML export:
+
+#+BEGIN_HTML
+<pre>
+public int add(int a, int b) { 
+    return a + b;
+}
+</pre>
+#+END_HTML

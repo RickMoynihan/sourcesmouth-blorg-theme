@@ -1,0 +1,16 @@
+#+TITLE: Your blog title
+#+SUBTITLE: Your blog subtitle
+#+BLOG_URL: http://sourcesmouth.co.uk/blog
+#+FEED_TYPE: atom
+#+AUTHOR: Your Name Here
+#+EMAIL: your@email.address.here.com
+#+PUBLISH_DIR: /home/rick/org/blog/output
+#+IMAGES_DIR: ./images
+#+UPLOAD_DIR: ./upload
+#+CONFIG_FILE: blog-config.el
+#+STARTUP: logdone
+#+IMAGES_DIR: images
+
+* DONE First Post
+
+Write your first post!
